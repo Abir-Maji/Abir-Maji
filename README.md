@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-maji&label=Profile%20views&color=0e75b6&style=flat" alt="abir-maji" /> </p>
 
-- 👨‍💻 All of my projects are available at [Abir Maji || Personal Portfolio](https://abir-maji.github.io/My-Personal-Portfolio/)
-
 - 💬 Ask me about **C, C++, Java, Python, JavaScript, React**
 
 - 📫 How to reach me **abirmaji02@gmail.com**
