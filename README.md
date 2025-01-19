@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abirmaji02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QzMsytCT5gnrnTW17f4nV22ruDVsaZMf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13ppee6QI6b_eYjgIqWLFKSmYeEs6vxSj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😁**
 
